@@ -1,0 +1,27 @@
+#BACKGROUND {
+    position: absolute;
+    top: 0%;
+    left: 0px;
+    margin: 0%;
+ 
+    height: 300px;
+    width: 1366px;
+    text-align: center;
+    font-size: 700%;
+}
+
+#slashcss {
+    position: absolute;
+    top: 310px;
+
+}
+
+#menu{
+    background-color: gray;
+    border: 5px solid black;
+    position: absolute;
+    height: 100px;
+    width: 566px;
+    top: 300px;
+    left: 400px;
+}
